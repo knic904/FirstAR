@@ -1,2 +1,2 @@
-# FirstAR https://knic904.github.io/FirstAR/
+# FirstAR https://knic904.github.io/FirstAR/nikkitree
 class exercise
